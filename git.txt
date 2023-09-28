@@ -4,3 +4,12 @@ a) '$ git pull'
 b) '$ git init'
 c) '$ git fetch'
 d) '$ git add .'
+
+
+-Ozvári-LukácsSándor Áron
+-Melyik parancs segítségével tudodod kilistázni a GitHub kezeléséhez szolgálatos parancsokat segítségknt?
+
+a, $ git command --help
+b, $ git pull
+c, $ git commit-m "commit üzenet"
+d, $ git reset --hard
