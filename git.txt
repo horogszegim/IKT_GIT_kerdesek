@@ -76,3 +76,11 @@ a) git config --global user.name "nev"
 b) git init
 c) git add
 d) git config --global user.email "e-mail cím"
+
+Mikuska Péter Marcell
+Hogyan láthatod az összes változtatást?
+
+a) git status
+b) git pull
+c) git log
+d) git blame [file]
