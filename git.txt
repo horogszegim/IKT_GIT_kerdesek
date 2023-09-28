@@ -60,3 +60,12 @@ c) git command --help
 d) git checkout branch_b
 
 
+Hrubos Márk
+Hogyan nézed meg az összes locális ágaid(branches)?
+
+a) git branch list
+b) git branch checkout
+c) git brench
+d) git branch
+
+
