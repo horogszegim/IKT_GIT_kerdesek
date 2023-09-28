@@ -24,3 +24,12 @@ c) git help version
 d) gitVersion
 
 
+Kiss Kamilla
+Válasszuk ki az alábbiak közül, hogy hol tudunk segítséget szerezni?
+
+a) git command --helppls
+b) https://training.github.com/ oldal meglátogatása böngészőben
+c) Nincs segítség kérési lehetőség.
+d) git command --help
+
+
