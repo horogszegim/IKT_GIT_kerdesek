@@ -1,0 +1,6 @@
+Horogszegi Miklós
+Hogyan szinkronizálod az online és a lokális repot?
+a) '$ git pull'
+b) '$ git init'
+c) '$ git fetch'
+d) '$ git add .'
