@@ -51,3 +51,12 @@ c) $ git init
 d) $ git status
 
 
+Pongrácz Gábor
+Hogyan lehet segítséget kérni a github-tól?
+
+a) git commit -m "commit message"
+b) git diff --cached
+c) git command --help
+d) git checkout branch_b
+
+
