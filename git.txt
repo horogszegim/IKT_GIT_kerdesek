@@ -69,3 +69,10 @@ c) git brench
 d) git branch
 
 
+Szabó Szabolcs Zsolt
+Melyik 2 command szükséges a configuráláshoz?
+
+a) git config --global user.name "nev"
+b) git init
+c) git add
+d) git config --global user.email "e-mail cím"
