@@ -33,3 +33,12 @@ c) Nincs segítség kérési lehetőség.
 d) git command --help
 
 
+Balla Ádám
+Sorolja fel az összes ágat, helyit és távilt is:
+
+a, $ git push
+b, $ git fetch
+c, $ git branch -av
+d, $ git status
+
+
