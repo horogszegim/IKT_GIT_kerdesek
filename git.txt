@@ -9,10 +9,10 @@ d) '$ git add .'
 Ozvári-LukácsSándor Áron
 Melyik parancs segítségével tudodod kilistázni a GitHub kezeléséhez szolgálatos parancsokat segítségknt?
 
-a, $ git command --help
-b, $ git pull
-c, $ git commit-m "commit üzenet"
-d, $ git reset --hard
+a) $ git command --help
+b) $ git pull
+c) $ git commit-m "commit üzenet"
+d) $ git reset --hard
 
 
 Király Márton
@@ -36,9 +36,18 @@ d) git command --help
 Balla Ádám
 Sorolja fel az összes ágat, helyit és távilt is:
 
-a, $ git push
-b, $ git fetch
-c, $ git branch -av
-d, $ git status
+a) $ git push
+b) $ git fetch
+c) $ git branch -av
+d) $ git status
+
+
+Farkas Botond
+Hogyan listázzuk ki a lokális brancheket? 
+
+a) $ git branch
+b) $ git branch new_branch
+c) $ git init
+d) $ git status
 
 
